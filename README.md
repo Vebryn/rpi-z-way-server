@@ -9,6 +9,5 @@ docker build --tag="z-way-server" .
 ```
 ## References
 * http://razberry.z-wave.me/install
-* Vebryn/rpi-influxdb
-* Vebryn/rpi-grafana
-* Vebryn/rpi-z-way-server
+* [Vebryn/rpi-grafana](http://github.com/Vebryn/rpi-grafana)
+* [Vebryn/rpi-influxdb](http://github.com/Vebryn/rpi-influxdb)
